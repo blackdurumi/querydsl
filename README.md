@@ -35,3 +35,5 @@
 
 - 벌크 연산 실행 후에는 DB와 영속성 컨텍스트 간 정보가 일치하지 않는다
 - 따라서 em.flush(), em.clear()를 해주자
+
+6. Querydsl with Data JPA
